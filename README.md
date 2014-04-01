@@ -18,7 +18,7 @@ or
 
 ```
 git clone https://github.com/chroman/Doppio.git
-cd Doppio/Libraries
+cd Doppio
 git submodule init
 git submodule update
 ```
